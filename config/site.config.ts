@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     email: "hola@iceicecream.mx",
     address: "Tijuana, B.C., México",
     mapUrl: "https://maps.google.com/?q=I.C.E+Ice+Cream+Tijuana",
-    instagram: "ice.icecream",
+    instagram: "i.c.ecream.tj",
     hours: {
       es: "Todos los días · 12:00 a 22:00 h",
       en: "Every day · 12:00 PM to 10:00 PM",
